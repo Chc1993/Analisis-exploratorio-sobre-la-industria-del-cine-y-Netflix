@@ -36,3 +36,6 @@ En este notebook, tomando de referencia a Netflix, busco dar respuestas a:
 Para obtener los artistas más populares del momento he realizado webscrapping en la lista de los 50 artistas más populares del momento en la web de IMDb. He recogido nombre, sexo, papel más actual y breve descripción de la persona.
 
 El objetivo es crear un dataframe con los artistas del momento
+
+
+Librerías utilizadas: Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup
