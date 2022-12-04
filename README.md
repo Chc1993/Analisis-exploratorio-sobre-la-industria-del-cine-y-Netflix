@@ -2,8 +2,6 @@
 
 ![human_afterall](https://user-images.githubusercontent.com/98810076/205484007-267e8366-eb0d-4634-bb50-c865c9d46077.png) 
 
-
-
 Este EDA ha sido realizado por César Herreros Castillo para el bootcamp The Bridge en Madrid. En este, he partido del supuesto en el cual se va a desarrollar una nueva plataforma de streaming (con contenido propio). He planteado la siguiente pregunta:
 * ¿Qué tipo de películas producir en cuanto a género y presupuesto? ¿Cómo sería la distribución del contenido en la plataforma?
 
