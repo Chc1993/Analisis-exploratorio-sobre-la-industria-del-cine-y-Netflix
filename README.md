@@ -27,7 +27,7 @@ En este notebook se han llevado los análisis relacionados con las finanzas y el
 ## 4. Análisis de Netflix
 Desarrollar una plataforma de streaming requiere, principalmente, de productos que no son propios de la empresa, sino que adquieren los derechos de innumerables películas y series.
 
-En este notebook, tomando de referencia a Netflix, busco dar respuestas a:
+En este notebook, tomando de referencia a Netflix, busco conocer la:
 * Proporción de géneros
 * Proporción de películas y series
 * Proporción de rangos de edad
